@@ -4,7 +4,7 @@ import { Providers } from "./providers";
 
 export const metadata: Metadata = {
   title: "Whoiswa",
-  description: "Modern RDAP/WHOIS Lookup Tool",
+  description: "Fast, clean, and accurate domain information lookup.",
 };
 
 export default function RootLayout({

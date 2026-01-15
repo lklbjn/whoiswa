@@ -1,7 +1,7 @@
 {
   "name": "whoiswa",
   "version": "1.0.0",
-  "description": "Modern RDAP/WHOIS Lookup Tool",
+  "description": "Fast, clean, and accurate domain information lookup.",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",

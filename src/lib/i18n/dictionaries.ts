@@ -4,7 +4,7 @@ export const translations = {
   en: {
     brand: {
       name: 'Whoiswa',
-      description: 'Modern RDAP/WHOIS Lookup Tool',
+      description: 'Fast, clean, and accurate domain information lookup.',
     },
     home: {
       title: 'Whoiswa',
@@ -74,7 +74,7 @@ export const translations = {
   zh: {
     brand: {
       name: 'Whoiswa',
-      description: '现代化的 RDAP/WHOIS 查询工具',
+      description: '快速、简洁、准确的域名信息查询工具。',
     },
     home: {
       title: 'Whoiswa',
